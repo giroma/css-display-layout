@@ -10,11 +10,13 @@ header p{
   font-weight: bold;
   font-size: 30px;
   margin: 0 0 0 2px;
-  clear: both;
+  padding: 15px;
 
 }
 header nav{
   text-align: center;
+  margin: 3px;
+
 }
 header nav a{
   background-color: grey;
@@ -23,8 +25,25 @@ header nav a{
   font-weight: bold;
   padding: 3px;
 }
+
+main {
+  width: 780px;
+  margin:30px;
+  display: block;
+}
 main p{
-  background-color: lightgreen;
+  background-color: rgb(34, 222, 171);
+  height: 25px;
+
+}
+main p span {
+  font-weight: bold;
+  text-decoration: underline rgb(221, 201, 20);
+}
+article{
+  width: 300;
+  float: left;
+  margin: 5px;
 }
 img {
 
