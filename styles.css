@@ -1,0 +1,41 @@
+body {
+  font-family: helvetica;
+}
+
+
+header p{
+  background-color: black;
+  color: white;
+  text-align: center;
+  font-weight: bold;
+  font-size: 30px;
+  margin: 0 0 0 2px;
+  clear: both;
+
+}
+header nav{
+  text-align: center;
+}
+header nav a{
+  background-color: grey;
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  padding: 3px;
+}
+main p{
+  background-color: lightgreen;
+}
+img {
+
+}
+
+.img-footer {
+  background-color: yellow;
+}
+
+footer{
+  background-color: black;
+  color: white;
+  text-align: center;
+}
